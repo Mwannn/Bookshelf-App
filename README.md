@@ -1,4 +1,6 @@
-Tugas Akhir Dicoding # Bookshelf App Starter Project
+Tugas Akhir Dicoding ![Dicoding](dicoding.png)
+
+# Bookshelf App Starter Project
 
 Ini adalah starter project untuk siswa yang sedang mengerjakan tugas akhir kelas Belajar Membuat Front-End Web untuk Pemula.
 
